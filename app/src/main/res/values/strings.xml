@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OpenWeatherAPI</string>
+    <string name="degree"></string>
+</resources>
